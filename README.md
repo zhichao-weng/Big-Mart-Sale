@@ -1,5 +1,6 @@
 # Big Mart Sale Prediction
 This notebook aims at predicting outlet sales by different features stored in training data set
+
 The data analyis technique includes: a. data observation
                                      b. data imputation and cleaning
                                      c. data engineering
